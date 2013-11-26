@@ -1,0 +1,18 @@
+body {
+	background-color: #F3F3F3;
+}
+
+#wrapper {
+	display: block;
+}
+
+#container {
+	margin: 10px;
+}
+
+.app {
+	background: #fff;
+	box-shadow: 1px 2px 3px rgba(34,34,34,.5);
+	display: inline-block;
+	overflow: scroll;
+}
